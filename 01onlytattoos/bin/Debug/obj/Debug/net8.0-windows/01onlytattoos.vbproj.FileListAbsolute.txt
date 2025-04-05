@@ -1,0 +1,46 @@
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.exe
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.deps.json
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.runtimeconfig.json
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.dll
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.pdb
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.Resources.resources
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.GenerateResource.cache
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfoInputs.cache
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfo.vb
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.CoreCompileInputs.cache
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.dll
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\refint\01onlytattoos.dll
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.pdb
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.genruntimeconfig.cache
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\ref\01onlytattoos.dll
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.adm.resources
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.agendamento.resources
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.secretaria.resources
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.tatuador.resources
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cadastrocliente.resources
+C:\Users\Guilh\source\repos\01onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.gerenciarcliente.resources
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.exe
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.deps.json
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.runtimeconfig.json
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.dll
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.pdb
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.adm.resources
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.agendamento.resources
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cadastrocliente.resources
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.gerenciarcliente.resources
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.Resources.resources
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.secretaria.resources
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.tatuador.resources
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfoInputs.cache
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfo.vb
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.dll
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\refint\01onlytattoos.dll
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.pdb
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.genruntimeconfig.cache
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\ref\01onlytattoos.dll
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\Interop.ADODB.dll
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.ResolveComReference.cache

@@ -1,0 +1,237 @@
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\Interop.ADODB.dll
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.ResolveComReference.cache
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.adm.resources
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.agendamento.resources
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cadastrocliente.resources
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.gerenciarcliente.resources
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.Resources.resources
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.secretaria.resources
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.tatuador.resources
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfoInputs.cache
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfo.vb
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.exe
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.deps.json
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.runtimeconfig.json
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.dll
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.pdb
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.dll
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\refint\01onlytattoos.dll
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.pdb
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.genruntimeconfig.cache
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\ref\01onlytattoos.dll
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.estoque.resources
+C:\Users\Guilh\Desktop\projeto Onlytattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cad_produto.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.exe
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.deps.json
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.runtimeconfig.json
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.dll
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.pdb
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\Interop.ADODB.dll
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.ResolveComReference.cache
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.adm.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.agendamento.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cadastrocliente.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cad_produto.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.estoque.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.gerenciarcliente.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.login.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.Resources.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.secretaria.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.tatuador.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.GenerateResource.cache
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.GeneratedMSBuildEditorConfig.editorconfig
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfoInputs.cache
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfo.vb
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.CoreCompileInputs.cache
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.dll
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\refint\01onlytattoos.dll
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.pdb
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.genruntimeconfig.cache
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\ref\01onlytattoos.dll
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.exe
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.deps.json
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.runtimeconfig.json
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.dll
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.pdb
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\Interop.ADODB.dll
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.ResolveComReference.cache
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.adm.resources
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.agendamento.resources
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cadastrocliente.resources
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cad_produto.resources
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.estoque.resources
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.gerenciarcliente.resources
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.login.resources
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.Resources.resources
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.secretaria.resources
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.tatuador.resources
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfoInputs.cache
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfo.vb
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.dll
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\refint\01onlytattoos.dll
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.pdb
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.genruntimeconfig.cache
+C:\Users\Guilh\Desktop\firenhall\novo\01onlytattoos\obj\Debug\net8.0-windows\ref\01onlytattoos.dll
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.exe
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.deps.json
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.runtimeconfig.json
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.dll
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.pdb
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\Interop.ADODB.dll
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.ResolveComReference.cache
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.adm.resources
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.agendamento.resources
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cadastrocliente.resources
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cad_produto.resources
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.estoque.resources
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.gerenciarcliente.resources
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.login.resources
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.Resources.resources
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.secretaria.resources
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.tatuador.resources
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfoInputs.cache
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfo.vb
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.dll
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\refint\01onlytattoos.dll
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.pdb
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.genruntimeconfig.cache
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\ref\01onlytattoos.dll
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.horarios.resources
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.tattoopronta.resources
+C:\Users\Guilh\Desktop\OnlyTattoos\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cad_tattoo.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cad_tattoo.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.horarios.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\novo\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.tattoopronta.resources
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.exe
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.deps.json
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.runtimeconfig.json
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.dll
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.pdb
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\Interop.ADODB.dll
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.ResolveComReference.cache
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.adm.resources
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.agendamento.resources
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cadastrocliente.resources
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cad_produto.resources
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cad_tattoo.resources
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.estoque.resources
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.gerenciarcliente.resources
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.horarios.resources
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.login.resources
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.Resources.resources
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.tattoopronta.resources
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.secretaria.resources
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.tatuador.resources
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfoInputs.cache
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfo.vb
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.dll
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\refint\01onlytattoos.dll
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.pdb
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.genruntimeconfig.cache
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\ref\01onlytattoos.dll
+C:\Users\Guilh\Desktop\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.orcamento.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.exe
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.deps.json
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.runtimeconfig.json
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.dll
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.pdb
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\Interop.ADODB.dll
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.ResolveComReference.cache
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.adm.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.agendamento.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cadastrocliente.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cad_produto.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cad_tattoo.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.estoque.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.gerenciarcliente.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.horarios.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.login.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.Resources.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.tattoopronta.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.orcamento.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.secretaria.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.tatuador.resources
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.GenerateResource.cache
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.GeneratedMSBuildEditorConfig.editorconfig
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfoInputs.cache
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfo.vb
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.CoreCompileInputs.cache
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.dll
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\refint\01onlytattoos.dll
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.pdb
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.genruntimeconfig.cache
+R:\FACULDADE FATEC\FATEC ADS\SEGUNDO SEMESTRE\SISTEMA DE INFORMAÇÃO - HUMBERTO\trampo guizim\onlytatu\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\ref\01onlytattoos.dll
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.exe
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.deps.json
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.runtimeconfig.json
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.dll
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.pdb
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\Interop.ADODB.dll
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.ResolveComReference.cache
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.adm.resources
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.agendamento.resources
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cadastrocliente.resources
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cad_produto.resources
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cad_tattoo.resources
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.estoque.resources
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.gerenciarcliente.resources
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.horarios.resources
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.login.resources
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.Resources.resources
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.tattoopronta.resources
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.orcamento.resources
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.secretaria.resources
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.tatuador.resources
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfoInputs.cache
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfo.vb
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.dll
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\refint\01onlytattoos.dll
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.pdb
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.genruntimeconfig.cache
+C:\Users\Guilh\Desktop\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\ref\01onlytattoos.dll
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.exe
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.deps.json
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.runtimeconfig.json
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.dll
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\bin\Debug\net8.0-windows\01onlytattoos.pdb
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\Interop.ADODB.dll
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.ResolveComReference.cache
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.adm.resources
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.agendamento.resources
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cadastrocliente.resources
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cad_produto.resources
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.cad_tattoo.resources
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.estoque.resources
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.gerenciarcliente.resources
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.horarios.resources
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.login.resources
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.Resources.resources
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.tattoopronta.resources
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.orcamento.resources
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.secretaria.resources
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\_01onlytattoos.tatuador.resources
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfoInputs.cache
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.AssemblyInfo.vb
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.vbproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.dll
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\refint\01onlytattoos.dll
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.pdb
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\01onlytattoos.genruntimeconfig.cache
+C:\Users\Guilh\Desktop\FACULDADE\2-SEMESTRE\Sistemas da informação\onlytattoosss\onlytatu\01onlytattoos\obj\Debug\net8.0-windows\ref\01onlytattoos.dll

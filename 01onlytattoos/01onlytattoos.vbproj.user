@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="adm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="agendamento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cadastrocliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cad_produto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cad_tattoo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="estoque.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gerenciarcliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="horarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Project\tattoopronta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="orcamento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="secretaria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tatuador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

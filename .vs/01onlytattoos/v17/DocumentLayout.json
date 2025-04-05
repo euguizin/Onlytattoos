@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guilh\\Desktop\\FACULDADE\\2-SEMESTRE\\Sistemas da informa\u00E7\u00E3o\\onlytattoosss\\onlytatu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F607A379-058C-464C-A8D9-547C403D0C16}|01onlytattoos\\01onlytattoos.vbproj|c:\\users\\guilh\\desktop\\faculdade\\2-semestre\\sistemas da informa\u00E7\u00E3o\\onlytattoosss\\onlytatu\\01onlytattoos\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F607A379-058C-464C-A8D9-547C403D0C16}|01onlytattoos\\01onlytattoos.vbproj|solutionrelative:01onlytattoos\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F607A379-058C-464C-A8D9-547C403D0C16}|01onlytattoos\\01onlytattoos.vbproj|c:\\users\\guilh\\desktop\\faculdade\\2-semestre\\sistemas da informa\u00E7\u00E3o\\onlytattoosss\\onlytatu\\01onlytattoos\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F607A379-058C-464C-A8D9-547C403D0C16}|01onlytattoos\\01onlytattoos.vbproj|solutionrelative:01onlytattoos\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F607A379-058C-464C-A8D9-547C403D0C16}|01onlytattoos\\01onlytattoos.vbproj|c:\\users\\guilh\\desktop\\faculdade\\2-semestre\\sistemas da informa\u00E7\u00E3o\\onlytattoosss\\onlytatu\\01onlytattoos\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F607A379-058C-464C-A8D9-547C403D0C16}|01onlytattoos\\01onlytattoos.vbproj|solutionrelative:01onlytattoos\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F607A379-058C-464C-A8D9-547C403D0C16}|01onlytattoos\\01onlytattoos.vbproj|c:\\users\\guilh\\desktop\\faculdade\\2-semestre\\sistemas da informa\u00E7\u00E3o\\onlytattoosss\\onlytatu\\01onlytattoos\\cad_tattoo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F607A379-058C-464C-A8D9-547C403D0C16}|01onlytattoos\\01onlytattoos.vbproj|solutionrelative:01onlytattoos\\cad_tattoo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\Guilh\\Desktop\\FACULDADE\\2-SEMESTRE\\Sistemas da informa\u00E7\u00E3o\\onlytattoosss\\onlytatu\\01onlytattoos\\Module1.vb",
+              "RelativeDocumentMoniker": "01onlytattoos\\Module1.vb",
+              "ToolTip": "C:\\Users\\Guilh\\Desktop\\FACULDADE\\2-SEMESTRE\\Sistemas da informa\u00E7\u00E3o\\onlytattoosss\\onlytatu\\01onlytattoos\\Module1.vb",
+              "RelativeToolTip": "01onlytattoos\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-29T00:40:58.553Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.vb",
+              "DocumentMoniker": "C:\\Users\\Guilh\\Desktop\\FACULDADE\\2-SEMESTRE\\Sistemas da informa\u00E7\u00E3o\\onlytattoosss\\onlytatu\\01onlytattoos\\login.vb",
+              "RelativeDocumentMoniker": "01onlytattoos\\login.vb",
+              "ToolTip": "C:\\Users\\Guilh\\Desktop\\FACULDADE\\2-SEMESTRE\\Sistemas da informa\u00E7\u00E3o\\onlytattoosss\\onlytatu\\01onlytattoos\\login.vb",
+              "RelativeToolTip": "01onlytattoos\\login.vb",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-05T17:21:47.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Guilh\\Desktop\\FACULDADE\\2-SEMESTRE\\Sistemas da informa\u00E7\u00E3o\\onlytattoosss\\onlytatu\\01onlytattoos\\login.vb",
+              "RelativeDocumentMoniker": "01onlytattoos\\login.vb",
+              "ToolTip": "C:\\Users\\Guilh\\Desktop\\FACULDADE\\2-SEMESTRE\\Sistemas da informa\u00E7\u00E3o\\onlytattoosss\\onlytatu\\01onlytattoos\\login.vb [Projeto]",
+              "RelativeToolTip": "01onlytattoos\\login.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-05T17:21:44.829Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cad_tattoo.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Guilh\\Desktop\\FACULDADE\\2-SEMESTRE\\Sistemas da informa\u00E7\u00E3o\\onlytattoosss\\onlytatu\\01onlytattoos\\cad_tattoo.vb",
+              "RelativeDocumentMoniker": "01onlytattoos\\cad_tattoo.vb",
+              "ToolTip": "C:\\Users\\Guilh\\Desktop\\FACULDADE\\2-SEMESTRE\\Sistemas da informa\u00E7\u00E3o\\onlytattoosss\\onlytatu\\01onlytattoos\\cad_tattoo.vb [Projeto]",
+              "RelativeToolTip": "01onlytattoos\\cad_tattoo.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-05T17:21:30.515Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
